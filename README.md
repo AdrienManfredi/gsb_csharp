@@ -1,0 +1,3 @@
+## Projet GSB  
+L’activité commerciale d’un laboratoire pharmaceutique est principalement réalisée par les visiteurs médicaux. En effet, un médicament remboursé par la sécurité sociale n’est jamais vendu directement au consommateur mais prescrit au patient par son médecin.
+Toute communication publicitaire sur les médicaments remboursés est d’ailleurs interdite par la loi. Il est donc important, pour l’industrie pharmaceutique, de promouvoir ses produits directement auprès des praticiens. L’entreprise Galaxy Swiss Bourdin nous demande donc de créer une application Windows permettant la gestion des comptes rendus de visite des visiteurs médicaux.
