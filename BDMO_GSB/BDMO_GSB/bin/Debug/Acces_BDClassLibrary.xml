@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Acces_BDClassLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:Acces_BDClassLibrary.outils">
+            <summary>
+            classe d'outils de connexion à une BD SQLserver dans une applicaton Windows
+            </summary>
+        </member>
+        <member name="M:Acces_BDClassLibrary.outils.MaConnexion">
+            <summary>
+            tentative de connexion
+            </summary>
+        </member>
+        <member name="M:Acces_BDClassLibrary.outils.MaDeconnexion">
+            <summary>
+            pour se déconnecter
+            </summary>
+        </member>
+        <member name="M:Acces_BDClassLibrary.outils.ExecuteScalar(System.String)">
+            <summary>
+            pour exécuter une requête qui ne renvoie qu'un seul résultat
+            </summary>
+            <param name="requete">une chaîne</param>
+            <returns> la requête ou appel de la procédure Stockée : une chaîne</returns>
+        </member>
+        <member name="M:Acces_BDClassLibrary.outils.ExecuteReader(System.String)">
+            <summary>
+            renvoie un DataReader avec le résultat de la requête
+            </summary>
+            <param name="requete">une chaîne</param>
+            <returns>SqlDataReader</returns>
+        </member>
+        <member name="M:Acces_BDClassLibrary.outils.ExecReader_DataTable(System.String)">
+            <summary>
+            renvoie une DataTable chargée par un DataReader
+            </summary>
+            <param name="requete"></param>
+            <returns>DataTable</returns>
+        </member>
+        <member name="T:Acces_BDClassLibrary.paramètres">
+            <summary>
+            attributs de classes pour les paramètres du serveur et de la base de données
+            </summary>
+        </member>
+    </members>
+</doc>

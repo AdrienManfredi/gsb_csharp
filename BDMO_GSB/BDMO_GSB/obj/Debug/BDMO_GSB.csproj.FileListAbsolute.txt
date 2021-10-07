@@ -1,0 +1,177 @@
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Menu.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.dll
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Fonctions_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_Compte_Rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_Compte_Rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Fonctions_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Menu.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\icham\Documents\E6\Projet C#\Semaine 3\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_Compte_Rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Fonctions_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Menu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet final\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_Compte_Rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Calendrier_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Fonctions_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Liste_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Menu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO (2)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_Compte_Rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Fonctions_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Menu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_Compte_Rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Fonctions_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_praticiens.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_visiteurs.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Menu.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\icham\Documents\E6\Projet C#\Projet pour oral\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_Compte_Rendu.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_visiteurs.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Fonctions_praticiens.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_praticiens.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_visiteurs.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Menu.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\manfredi\Downloads\GSB_BDMO (4)\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_Compte_Rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Fonctions_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_praticiens.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_visiteurs.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Menu.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\manfredi\Documents\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe.config
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.exe
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\BDMO_GSB.pdb
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.pdb
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\bin\Debug\Acces_BDClassLibrary.xml
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csprojResolveAssemblyReference.cache
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_Compte_Rendu.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Calendrier_visiteurs.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Fonctions_praticiens.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_ajoutmedocs_CR.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_insertion_cr.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_compte_rendu.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_suppression_CR.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_praticiens.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Liste_visiteurs.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Frm_Menu.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.Properties.Resources.resources
+C:\Users\manfredi\Documents\BTS\SLAM2\2annee\PROJET_CSHARP\FINAL2\GSB_BDMO\GSB_BDMO\BDMO_GSB\BDMO_GSB\obj\Debug\BDMO_GSB.csproj.GenerateResource.Cache
